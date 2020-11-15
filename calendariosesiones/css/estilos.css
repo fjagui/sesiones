@@ -1,0 +1,38 @@
+table,th {
+  border: 1px solid black;
+}
+
+.clase_error::before {
+   
+    color: red;
+    content: ' \26A0 ';
+   
+}
+.clase_dialaboral {
+    border: 1px solid black;
+    background-color: rgb(212, 240, 240);
+}
+.clase_diahoy {
+    border: 1px solid black;
+    background-color: rgb(10,240,10);
+}
+.clase_fechaseleccionada {
+    border: 1px solid black;
+    background-color: rgb(0,120,10);
+}
+.clase_diafestivo {
+    border: 1px solid black;
+    background-color: rgb(233, 73, 73);
+}
+.clase_diadomingo {
+    border: 1px solid black;
+    background-color: red;
+}
+.clase_diacomunidad {
+    border: 1px solid black;
+    background-color: rgb(233, 142, 23);
+}
+.clase_dialocal {
+    border: 1px solid black;
+    background-color: orange;
+}
